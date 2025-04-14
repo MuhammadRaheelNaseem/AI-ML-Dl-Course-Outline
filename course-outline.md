@@ -84,7 +84,7 @@ https://github.com/MuhammadRaheelNaseem/Learn-DataScience
   - Understanding the role of a **data scientist** and the data science lifecycle.
 - **Data Science Workflow** covers everything from **data collection** to **data transformation** before any modeling. This is a crucial step as it prepares the data for further analysis.
 
-#### **Practical Tasks**:
+#### **Practical Overview**:
 1. **Data Collection**:  
    - **Task**: Fetch data from real-world sources:
      - **APIs**: Pull data from a public API (e.g., **OpenWeather API** for weather data).
